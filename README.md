@@ -59,10 +59,3 @@ If you’re reading this and still haven’t deleted that cringeworthy code from
 
 **Go ahead. Delete. Regret later.**
 Because sometimes, deleting is the only productive thing you can do.
-
----
-
-If you want, I can help you make this script more "explosive" or add some sanity checks. Just ask.
-
----
-
